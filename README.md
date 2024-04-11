@@ -20,14 +20,14 @@ Installation:
 Clone the Repository:
 
 
-Copy code
+
 ```
 git clone https://github.com/nedi89/money-tracker.git
 ```
 Install Dependencies:
 
 
-Copy code
+
 ```
 cd money-tracker
 npm install
@@ -41,7 +41,7 @@ PORT: Port number for the server to listen on.
 Start the Application:
 
 
-Copy code
+
 ```
 npm start
 ```
