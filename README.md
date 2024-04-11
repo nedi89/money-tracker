@@ -16,6 +16,7 @@ React.js: JavaScript library for building user interfaces used for creating the 
 Node.js: JavaScript runtime environment used for running the server-side code.
 
 Installation:
+
 Clone the Repository:
 
 
@@ -27,8 +28,10 @@ Install Dependencies:
 
 
 Copy code
-```cd money-tracker```
-```npm install```
+```
+cd money-tracker
+npm install
+```
 Set Environment Variables:
 
 Create a .env file in the root directory.
@@ -39,7 +42,9 @@ Start the Application:
 
 
 Copy code
-```npm start```
+```
+npm start
+```
 Access the Application:
 
 Open your web browser and go to http://localhost:3000 (or the port you specified).
