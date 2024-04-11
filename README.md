@@ -14,6 +14,7 @@ MongoDB: NoSQL database used for storing expense data and categories.
 Express.js: Web application framework for Node.js used for building the backend API.
 React.js: JavaScript library for building user interfaces used for creating the frontend.
 Node.js: JavaScript runtime environment used for running the server-side code.
+
 Installation:
 Clone the Repository:
 
